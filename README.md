@@ -8,7 +8,7 @@
 
 ## `whoami`
 # About Me:
-Pursuing Graduation in Computer Applications
+Pursuing Graduation in Computer Applications.<br>
 CS student navigating the intersection of **machine intelligence** and **the web**.  
 I build things that think, and things that ship.<br>
 
